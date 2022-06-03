@@ -25,6 +25,7 @@ In a linear regression model, for example, the number and type of terms are incl
 Building an AutoRegressive Integrated Moving Average (ARIMA) time series machine learning model to forecast the price of Gold & Silver 30 days into the future. Starting off this project by importing all the necessary libraries then downloading real-time data from Yahoo Finance & visualize the historical performance of Gold & Silver through graphs using Matplotlib nextly clearing or segregating out the parameters of ARIMA for modelling purposes finally creating an Arima model and forecast the price 30 days into the future lastly to train, test and evaluate the performance of the model.
 
 Gold Data:
+  
   ![image](https://user-images.githubusercontent.com/86974424/171819356-b6871b14-c580-4580-81ef-ea6b1ae5a1bc.png)
   
 Data Visualization of Gold:
