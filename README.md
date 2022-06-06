@@ -39,7 +39,7 @@ ARIMA Model Parameters:
 Model Outcome:
   
   ![image](https://user-images.githubusercontent.com/86974424/171819787-7a3283f4-fdb0-46ca-9d4a-50d4db4f827f.png)
-  
+##  
 Data Visualization of Silver:
   
   ![image](https://user-images.githubusercontent.com/86974424/171819941-d8504d92-2206-4d7e-aaab-531e19f95366.png)
