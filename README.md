@@ -49,7 +49,7 @@ ARIMA Model Parameters:
 Model Outcome:
   
   ![image](https://user-images.githubusercontent.com/86974424/171820101-39bbbacf-d4c3-4307-88f6-2f79967a899d.png)
-  
+#  
 # Time Series Prediction Platinum: Using Platinum futures time series data from investing.com and predicting/forecasting close price for platinum with 95% confidence bound interval.
   
 Dataset: [Platinum Futures](https://www.investing.com/commodities/platinum)
